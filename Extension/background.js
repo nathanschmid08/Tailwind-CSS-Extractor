@@ -14,7 +14,6 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
           }
         }
       );
-      // Return true to keep sendResponse alive (async call)
       return true;
     }
   });
