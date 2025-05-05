@@ -1,13 +1,17 @@
 <div align="center">
 
-# <img src="ICON/icon.png" alt="Tailwind CSS Extractor Icon" height="35"> Tailwind CSS Extractor
+<img src="ICON/icon.png" alt="Tailwind CSS Extractor Icon" height="80">
 
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
-  <img src="https://img.shields.io/badge/Version-1.0-blue" alt="Version">
-  <img src="https://img.shields.io/badge/License-MIT-orange" alt="License">
+# Tailwind CSS Extractor
+
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
+<img src="https://img.shields.io/badge/Version-1.0-blue" alt="Version">
+<img src="https://img.shields.io/badge/License-MIT-orange" alt="License">
 
 **Extract all used Tailwind CSS classes from a webpage and generate your own custom stylesheet.**  
 <em>Clean. Secure. Offline.</em>
+</div>
+
 
 <p align="center">
   <a href="#-about"><b>About</b></a> •
